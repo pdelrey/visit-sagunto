@@ -1,0 +1,106 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+.gideon-roman-regular {
+  font-family: "Gideon Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Gideon Roman";
+}
+
+}
+
+img {
+    width: 100px;
+}
+
+h1, h2 {
+    background: #ffafcc;
+    text-shadow: 0px 0px 1px black;
+}
+
+h3 {
+    font-weight: bold;
+}
+.intro {
+    background-image: url("images/castell9.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.activ-sagunto {
+    background-color: gainsboro;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+.activ {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+
+#teatre-img {
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid #ffafcc;
+}
+
+#teatre-img:hover {
+    border: 10px solid #ffafcc;
+}
+
+#trenet-img {
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid #ffafcc;
+}
+
+#trenet-img:hover {
+    border: 10px solid #ffafcc;
+}
+
+#platja-img {
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid #ffafcc;
+}
+
+#platja-img:hover {
+    border: 10px solid #ffafcc;
+}
+
+#arcady-img {
+    width: 200px;
+}
+
+.card {
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f0e7ea;
+    color: #4e1228;
+    border-bottom: 6px solid #ffafcc;
+    border-right: 6px solid #ffafcc;
+    border-radius: 3px;
+}
