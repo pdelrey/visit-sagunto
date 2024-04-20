@@ -1,10 +1,10 @@
 {
   "name": "project",
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
     "vite": "latest"
   },
-  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
