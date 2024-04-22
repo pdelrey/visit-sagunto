@@ -21,8 +21,6 @@ body {
     font-family: "Gideon Roman";
 }
 
-}
-
 img {
     width: 100px;
 }
@@ -35,6 +33,7 @@ h1, h2 {
 h3 {
     font-weight: bold;
 }
+
 .intro {
     background-image: url("images/castell9.jpg");
     background-size: cover;
@@ -52,6 +51,7 @@ h3 {
     margin-top: 0px;
     padding-top: 10px;
 }
+
 .activ {
     display: flex;
     justify-content: space-around;
